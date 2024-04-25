@@ -14,13 +14,13 @@ function setup() {
   r.position(10,15)
   let p = createP('Konstanta Pertumbuhan')
   p.style('fontsize','10px');
-  p.position(10,-20)
+  p.position(10,-10)
   
   K = createInput("Ex : 100");
   K.position(300,15)
   let q = createP('Carrying capacity')
   q.style('fontsize','10px');
-  q.position(300,-20)
+  q.position(300,-10)
   
   
   
